@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T13:21:56.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="U5iQx1zIGv2N1p7h5wH8" version="20.8.20" type="github"><diagram name="第 1 页" id="PI_QuVFH4fkAx-CwKwVk">1VjLcpswFP0aLdMxCAQswSbJIk3TZpF6qRrFaAYjR5ZjO1/fKxA2rzRp6tpkZd2HXuecK+4Y4fFieyXpMv0qEpYhe5RsEZ4g27ZGNoEf7dmVHtfzSsdc8sQkHRz3/IVVM413zRO2aiQqITLFl03nTOQ5m6mGj0opNs20R5E1d13SOes47mc063ofeKLS0uvb3sF/zfg8rXa2SFBGFrRKNjdZpTQRm5oLxwiPpRCqHC22Y5Zp8CpcynmXr0T3B5MsV++Z8LD8pmbXqyf3Vv24+Z5Mb+mVdWFWeabZ2lwYxS4KY+QHKCYoxMgfaY8/QZGF4gAFAQoh5OkEPXBRADkQ8lF4iXxSJMM4qk0nKAJnpENRgCJc5FyiqAJG7Sq0pVjnCdMHHiEcbVKu2P2SznR0A/oCX6oWGVgWDLsAVLdhUrFtzWUAuWJiwZTcQYqJYs+cwajTHhl7c+DaxsaX1nh2jY8aec33Sx8YgIEh4S8IsbuE2CSDXaNHAdeso0We1qIKXKyKygkhwbKX2wKdKg6jefEL9AEdJbNAR1gMggnycRHyNMtmMzh7uZ+Z+k9EpULyF1iNVg69tCl1C4Od0V8suxMrrrjIwTkDRpmEgGaSQzHetBIWPEn0USKa8XnvjNAE9plHUIvdUgu2umohPWKxyP9SC+4pXyg7qD+rKM3YlB1UJPCsK9urPGMUkPPXHxkaok7vgxhEKIrNqwd10n3azg2k47oDA9LtAdIv9Ef0axPaKLAGCKTrDk2RpLfGATzfKQoZ62+pLm0HRc4AESWDQ9Tr+ca2QGJ5EuruEaxc5KwJShNBQEbufmrji1uZU5NZGJNtPXOyq6wtV7VpYE1rkcMkbVRzXqVjJdZyxt5+1xSVc6bebghZ0miLu+TWyHP/0B9JllHFn5vNdB+hZoc7wYsup/o+BC3t+C1NlPc2s+rNb2shx2kthFsLlcB0Fir0tb/2xyXnH1dyJ5WOPSxJjFpMjj4oifZC++7uRJIIjiqJV+kdKG0dtN9LG/HPS5vV03N/mlLGw9LEsV739kIn10RPj/ZpNOEOShN2+51wPqgJ99zvxJG7zJNqggxKE57dojIY3LcDzMM/uWX64f9wHP8G</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-30T13:23:58.301Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NNAalaoOLvq9nbHqpTjU" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="PI_QuVFH4fkAx-CwKwVk">
+    <mxGraphModel dx="1026" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="36onjVhr9xYpolE1KqcA-1" value="Security inspection dangerous goods identification and detection platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Select weights&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontSize=13;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-3" value="Model initialization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-4" value="Image detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="310" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-5" value="Video detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-6" value="Camera detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="36onjVhr9xYpolE1KqcA-4" target="36onjVhr9xYpolE1KqcA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="36onjVhr9xYpolE1KqcA-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="270" as="sourcePoint" />
+            <mxPoint x="680" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="36onjVhr9xYpolE1KqcA-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="390" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="36onjVhr9xYpolE1KqcA-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="580" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36onjVhr9xYpolE1KqcA-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="36onjVhr9xYpolE1KqcA-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="290" as="sourcePoint" />
+            <mxPoint x="680" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
