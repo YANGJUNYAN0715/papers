@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T04:20:29.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PItQP83aqjPA75loX0WL" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T04:34:08.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KEAdbLR0_miUuJQSBEvM" version="24.0.7" type="github">
   <diagram name="第 1 页" id="GXZfjAH7chtRCAHb3rvm">
     <mxGraphModel dx="1221" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="5Ksv8zER4HQqpKEPlw89-40" value="Prediction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="334" y="160" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5Ksv8zER4HQqpKEPlw89-41" value="(b) Improved YOLOv7 prediction head" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5Ksv8zER4HQqpKEPlw89-41" value="(b) XS-YOLO prediction head" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="324" y="320" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Ksv8zER4HQqpKEPlw89-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5Ksv8zER4HQqpKEPlw89-43" target="5Ksv8zER4HQqpKEPlw89-45" edge="1">
